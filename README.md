@@ -2,7 +2,7 @@
 This Python project implements a simple graphical user interface (GUI) application for converting miles to kilometers. It utilizes the Tkinter library for creating user-friendly input fields, buttons, and labels.
 
 # Example
-<img width="350" alt="Screenshot 2024-04-14 at 11 30 13 AM" src="https://github.com/z1ppyyy/Mile-to-Km-Converter/assets/139076325/2d533435-2e3e-40e7-b67e-474b19a6bd87">
+<img width="340" alt="Screenshot 2024-04-14 at 12 14 35 PM" src="https://github.com/z1ppyyy/Mile-to-Km-Converter/assets/139076325/9a17ecef-c2c4-4dbc-9042-7c6df1da9f35">
 
 # Set up
 Clone the repository
